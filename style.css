@@ -215,6 +215,9 @@
     margin: 5px 0;
 }
 
+.languagesUsed li{
+    list-style: none;
+}
 
 /* ************************** Footer ************************ */
 
